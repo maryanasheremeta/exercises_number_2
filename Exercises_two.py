@@ -1,7 +1,7 @@
-list=[12,5,10,64]
-list_1=list.pop(-1)
-list_2=list.insert(0,64)
-print(list)
+my_list=[12, 5, 10, 64]
+my_list.pop(-1)
+my_list.insert(0,-1)
+print(my_list)
 
 
 
